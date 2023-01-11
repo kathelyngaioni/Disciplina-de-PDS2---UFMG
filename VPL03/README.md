@@ -1,0 +1,3 @@
+Uma empresa precisa realizar o pagamento das faturas de seus fornecedores, contudo, a empresa recebe as notas fiscais no dia de seu vencimento, e não consegue realizar todos os pagamentos a tempo, acarretando em multas no próximo dia útil. Nossa tarefa é priorizar o pagamento das faturas de maior valor (visto que todas vencem na mesma data), minimizando o gasto em multas. Para operacionalizar os pagamentos, a empresa acompanha um status de faturas pendentes na forma de uma contagem de faturas por tipo (Pix, Boleto ou Guia).
+
+Nesse exercício, implementamos dois TADs, Fatura e Colecao para criar uma coleção de faturas, garantindo que a coleção está sempre ordenada de forma crescente em relação ao valor das faturas (valores mais altos nas posições iniciais da coleção).
