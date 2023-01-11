@@ -1,0 +1,1 @@
+Uma loja vende eletrodomésticos, comercializando apenas geladeiras e fogões. A tarefa do VPL é escrever classes, uma para cada eletrodoméstico comercializado, e uma para o estoque. Além disso, deve ser possível vender uma geladeira apenas se ela tiver as especificações corretas.
